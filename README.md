@@ -25,12 +25,6 @@ Always learning — exploring backend, automation, web apps, dan integrasi API. 
 
 Feel free to connect with me anytime!
 
-Joined Github **{{ ACCOUNT_AGE }}** years ago.
-
-Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues,
-submitted **{{ PULL_REQUESTS }}**+ pull requests, created **{{ GISTS }}**+ gists
-and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}**+ public repositories.
-
 <hr>
 
 <h3 align="left">✨ Random Dev Quote:</h3>
@@ -39,7 +33,7 @@ and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}**+ public repositories.
 </p>
 <hr>
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="200" width="325" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuff:
 
@@ -47,13 +41,13 @@ and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}**+ public repositories.
 - 🚀 &nbsp; Currently exploring **automation, API integration, and web app optimization**.
 - 💬 &nbsp; Ask me anything: *(coming soon, GitHub issue link)*  
 - 👾 &nbsp; Fun fact: Saya sering “bikin ulang” aplikasi kantor agar lebih efisien 😄
-- 📫 &nbsp; Reach me: **(email Mas, nanti bisa ditaruh di sini)**
+- 📫 &nbsp; Reach me: **trisindo.panji@gmail.com**
 
 ### My Absolute Favorites:
 
 - 💻 &nbsp; Build internal apps untuk mempermudah pekerjaan kantor.
 - 📰 &nbsp; Nonton & baca hal-hal terkait IT, troubleshooting, dan sistem.
-- 🛠 &nbsp; Modifikasi & perbaikan komputer: melalui **iStart Komputer**.
+- 🛠 &nbsp; Modifikasi & perbaikan komputer: melalui **iStart Computer**.
 
 ### Languages and Tools:
 
