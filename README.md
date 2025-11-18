@@ -1,8 +1,8 @@
 ## Hey there 👋, I'm Panji !
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/)
-[![Website Badge](https://img.shields.io/badge/-iStart%20Komputer-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](#)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/trisindopanji)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/trisindopanji)
+[![Website Badge](https://img.shields.io/badge/-iStart%20Komputer-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://linktr.ee/istart)
 
 ### Glad to see you here!
 <p align="left">
@@ -37,7 +37,7 @@ Feel free to connect with me anytime!
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working with **PHP, MySQL, jQuery, AdminLTE, Laravel (belajar)**.
+- 🛠 &nbsp; I’m currently working with **PHP, MySQL, jQuery**.
 - 🚀 &nbsp; Currently exploring **automation, API integration, and web app optimization**.
 - 💬 &nbsp; Ask me anything: *(coming soon, GitHub issue link)*  
 - 👾 &nbsp; Fun fact: Saya sering “bikin ulang” aplikasi kantor agar lebih efisien 😄
@@ -60,7 +60,6 @@ Feel free to connect with me anytime!
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" alt="linux"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png" alt="bootstrap"></code>
-<code><img height="27" src="https://www.svgrepo.com/show/373432/adminlte.svg" alt="adminlte"></code>
 
 ### Projects and Dev Stuffs:
 
@@ -86,7 +85,7 @@ Feel free to connect with me anytime!
   <ul>
   	    <li><b>OS:</b> Windows 11</li>
   	    <li><b>Browser:</b> Chrome</li>
-	    <li><b>Tools:</b> Laragon, VSCode, phpMyAdmin</li>
+	    <li><b>Tools:</b> Laragon, SublimeText, VSCode, phpMyAdmin</li>
 	    <li><b>Other Tools:</b> winSCP, Postman, Notepad++, Remote Desktop</li>
 	    <li><b>To Stay Updated:</b> YouTube Tech Channels</li>
 	</ul>
