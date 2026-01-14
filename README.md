@@ -67,8 +67,7 @@ Feel free to connect with me anytime!
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=trisindopanji&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trisindopanji&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=trisindopanji&theme=prussian)](https://git.io/streak-stats)
 </details>
 
 <details>
