@@ -100,7 +100,7 @@ Feel free to connect with me anytime!
 ### 📊 GitHub Stats & Activity:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trisindopanji&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=trisindopanji&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -108,13 +108,13 @@ Feel free to connect with me anytime!
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=trisindopanji&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=trisindopanji&theme=tokyonight" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=trisindopanji&theme=tokyonight&utc_offset=7" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=trisindopanji&theme=tokyonight&utc_offset=7" alt="Productive Time" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=trisindopanji&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=trisindopanji&theme=tokyonight" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=trisindopanji&theme=tokyonight&utc_offset=7" alt="Most Commit Language" />
 </p>
 
 ---
@@ -144,4 +144,4 @@ If you find my projects helpful, consider buying me a coffee! ☕
 
 ### Show some ❤️ by starring some of the repositories!
 
-</div>![1769957455337](image/README/1769957455337.png)
+</div>
