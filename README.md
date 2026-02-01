@@ -3,6 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/trisindopanji)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/trisindopanji)
 [![Website Badge](https://img.shields.io/badge/-iStart%20Komputer-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://linktr.ee/istart)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/trisindopanji)
 
 ### Glad to see you here!
 <p align="left">
@@ -22,7 +23,35 @@ Saat ini aktif mengembangkan berbagai aplikasi internal perusahaan seperti:
 Saya terbiasa bekerja dengan **PHP, MySQL, AdminLTE, JavaScript, jQuery**, dan sering menangani **database, troubleshooting, ERP**, serta berbagai proyek sistem custom untuk perusahaan.
 Saya suka membangun aplikasi yang **praktis, ringan, dan langsung bermanfaat**, baik untuk operasional kantor maupun untuk klien melalui toko servis komputer saya, **iStart Komputer**.
 Always learning — exploring backend, automation, web apps, dan integrasi API. 🚀
+### 🌟 Featured Open-Source Projects:
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/trisindopanji/desktop-notification-system">
+        <img src="https://img.shields.io/badge/🔔-Desktop%20Notification-blue?style=for-the-badge" alt="Desktop Notification"/>
+      </a>
+      <br />
+      <sub>Real-time browser push notifications</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/trisindopanji/email-notification-system">
+        <img src="https://img.shields.io/badge/📧-Email%20Notification-red?style=for-the-badge" alt="Email Notification"/>
+      </a>
+      <br />
+      <sub>Flexible email notification system</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/trisindopanji/session-login-manager">
+        <img src="https://img.shields.io/badge/🔐-Session%20Manager-green?style=for-the-badge" alt="Session Manager"/>
+      </a>
+      <br />
+      <sub>Advanced session & login management</sub>
+    </td>
+  </tr>
+</table>
+
+> 💡 All built for **CodeIgniter 4** with complete documentation, MIT license, and ready to use!
 Feel free to connect with me anytime!
 
 <hr>
@@ -39,9 +68,11 @@ Feel free to connect with me anytime!
 
 - 🛠 &nbsp; I’m currently working with **PHP, MySQL, jQuery**.
 - 🚀 &nbsp; Currently exploring **automation, API integration, and web app optimization**.
-- 💬 &nbsp; Ask me anything: *(coming soon, GitHub issue link)*  
-- 👾 &nbsp; Fun fact: Saya sering “bikin ulang” aplikasi kantor agar lebih efisien 😄
-- 📫 &nbsp; Reach me: **trisindo.panji@gmail.com**
+- 🎯 &nbsp; Building open-source CodeIgniter 4 modules for the developer community.
+- 💬 &nbsp; Ask me about **PHP, CodeIgniter, MySQL, or system integration**!
+- 👾 &nbsp; Fun fact: Saya sering "bikin ulang" aplikasi kantor agar lebih efisien 😄
+- 📫 &nbsp; Reach me: **panji.trisindo@gmail.com**
+- ☕ &nbsp; Support my work: [Ko-fi](https://ko-fi.com/trisindopanji)
 
 ### My Absolute Favorites:
 
@@ -53,33 +84,37 @@ Feel free to connect with me anytime!
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" alt="php"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png" alt="jquery"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" alt="mysql"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg" alt="codeigniter"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png" alt="jquery"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="html"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="css"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png" alt="bootstrap"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" alt="linux"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png" alt="bootstrap"></code>
 
-### Projects and Dev Stuffs:
+---
+
+### 📊 GitHub Stats & Activity:
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=trisindopanji&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trisindopanji&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trisindopanji&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trisindopanji&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</p>
+
+---
 
 <details>
-  <summary><b>⚡ Github Stats</b></summary>
-
-  <br />
-  [![GitHub Streak](https://streak-stats.demolab.com?user=trisindopanji&theme=prussian)](https://git.io/streak-stats)
-</details>
-
-<details>
-  <summary><b>☄️ Github Streaks</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=trisindopanji&hide_border=true" />
-</details>
-
-<details>
-  <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  <br />
 
   <ul>
   	    <li><b>OS:</b> Windows 11</li>
@@ -90,9 +125,15 @@ Feel free to connect with me anytime!
 	</ul>
 </details>
 
-#
+---
 
 <div align="center">
+
+### 💖 Support My Work
+
+If you find my projects helpful, consider buying me a coffee! ☕
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/trisindopanji)
 
 ### Show some ❤️ by starring some of the repositories!
 
