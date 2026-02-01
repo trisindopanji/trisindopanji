@@ -23,6 +23,7 @@ Saat ini aktif mengembangkan berbagai aplikasi internal perusahaan seperti:
 Saya terbiasa bekerja dengan **PHP, MySQL, AdminLTE, JavaScript, jQuery**, dan sering menangani **database, troubleshooting, ERP**, serta berbagai proyek sistem custom untuk perusahaan.
 Saya suka membangun aplikasi yang **praktis, ringan, dan langsung bermanfaat**, baik untuk operasional kantor maupun untuk klien melalui toko servis komputer saya, **iStart Komputer**.
 Always learning — exploring backend, automation, web apps, dan integrasi API. 🚀
+
 ### 🌟 Featured Open-Source Projects:
 
 <table>
@@ -52,6 +53,7 @@ Always learning — exploring backend, automation, web apps, dan integrasi API. 
 </table>
 
 > 💡 All built for **CodeIgniter 4** with complete documentation, MIT license, and ready to use!
+
 Feel free to connect with me anytime!
 
 <hr>
@@ -98,16 +100,21 @@ Feel free to connect with me anytime!
 ### 📊 GitHub Stats & Activity:
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=trisindopanji&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trisindopanji&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trisindopanji&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trisindopanji&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trisindopanji&theme=tokyonight" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trisindopanji&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=trisindopanji&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=trisindopanji&theme=tokyonight" alt="Productive Time" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=trisindopanji&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=trisindopanji&theme=tokyonight" alt="Most Commit Language" />
 </p>
 
 ---
@@ -137,4 +144,4 @@ If you find my projects helpful, consider buying me a coffee! ☕
 
 ### Show some ❤️ by starring some of the repositories!
 
-</div>
+</div>![1769957455337](image/README/1769957455337.png)
